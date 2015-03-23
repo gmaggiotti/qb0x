@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">qBox scanner</string>
+    <string name="hello_world">qBox Scanner</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Qbox Scanner</string>
+    <string name="edit_message">hostname or IP address</string>
+    <string name="button_send">Send</string>
+
+</resources>
